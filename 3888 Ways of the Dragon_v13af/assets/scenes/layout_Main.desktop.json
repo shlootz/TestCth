@@ -1,0 +1,2520 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@3552",
+      "parent": "root",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "dragonLayer",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "WideBackground",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "SymbolsBackground",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "NearMissModuleAssets",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "ReelsArea",
+      "parent": "root!@3552",
+      "x": 1585,
+      "y": 642,
+      "width": 1556,
+      "height": 1212,
+      "widthRelative": 49.11616161616162,
+      "heightRelative": 84.16666666666667,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        807,
+        36
+      ],
+      "offsetMax": [
+        2363,
+        1248
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "SymbolsOverground",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Logo",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "SpecialMessagesModuleAssets",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "InfoSymbols",
+      "parent": "root!@3552",
+      "x": 3129,
+      "y": 41,
+      "width": 81,
+      "height": 81,
+      "widthRelative": 2.556818181818182,
+      "heightRelative": 5.625,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        3088.5,
+        0.5
+      ],
+      "offsetMax": [
+        3169.5,
+        81.5
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "ALL_SYMBOLS",
+      "parent": "root!@3552",
+      "x": 1584,
+      "y": -201,
+      "width": 3648,
+      "height": 202,
+      "widthRelative": 115.15151515151516,
+      "heightRelative": 14.027777777777779,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0.5,
+        0.5
+      ],
+      "anchorMax": [
+        0.5,
+        0.5
+      ],
+      "offsetMin": [
+        -1824,
+        -1022
+      ],
+      "offsetMax": [
+        1824,
+        -820
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Normal",
+      "parent": "WideBackground",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Normal!@3592",
+      "parent": "SymbolsBackground",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Normal!@3607",
+      "parent": "SymbolsOverground",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Spine",
+      "parent": "SpecialMessagesModuleAssets",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Digits",
+      "parent": "SpecialMessagesModuleAssets",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    }
+  ],
+  "slots": [
+    {
+      "name": "SuperSpin-Animation",
+      "bone": "dragonLayer",
+      "attachment": "SuperSpin-Animation",
+      "components": []
+    },
+    {
+      "name": "Main_Background",
+      "bone": "Normal",
+      "attachment": "Main_Background",
+      "components": []
+    },
+    {
+      "name": "SpineRenderer",
+      "bone": "Normal",
+      "attachment": "SpineRenderer",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Background-Large-5",
+      "bone": "Normal!@3592",
+      "attachment": "BG-Main-Reels-Background-Large-5",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Background-Large-4",
+      "bone": "Normal!@3592",
+      "attachment": "BG-Main-Reels-Background-Large-4",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Background-Large-3",
+      "bone": "Normal!@3592",
+      "attachment": "BG-Main-Reels-Background-Large-3",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Background-Large-2",
+      "bone": "Normal!@3592",
+      "attachment": "BG-Main-Reels-Background-Large-2",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Background-Small-1",
+      "bone": "Normal!@3592",
+      "attachment": "BG-Main-Reels-Background-Small-1",
+      "components": []
+    },
+    {
+      "name": "NearMiss-1",
+      "bone": "NearMissModuleAssets",
+      "attachment": "NearMiss-1",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Overground-Left",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Reels-Overground-Left",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Overground-Right",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Reels-Overground-Right",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Overground-Horizonta-Down",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Reels-Overground-Horizonta-Down",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Reels-Overground-Horizontal-Up",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Reels-Overground-Horizontal-Up",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Ways-Left",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Ways-Left",
+      "components": []
+    },
+    {
+      "name": "BG-Main-Ways-Right",
+      "bone": "Normal!@3607",
+      "attachment": "BG-Main-Ways-Right",
+      "components": []
+    },
+    {
+      "name": "Logo-Static",
+      "bone": "Logo",
+      "attachment": "Logo-Static",
+      "components": []
+    },
+    {
+      "name": "Special Messages",
+      "bone": "Spine",
+      "attachment": "Special Messages",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-1",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-1",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-2",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-2",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-3",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-3",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-4",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-4",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-5",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-5",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-6",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-6",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-7",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-7",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-8",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-8",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-9",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-9",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-0",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-0",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Dot",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Dot",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Comma",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Comma",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Coin-04",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Coin-04",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Coin-03",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Coin-03",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Coin-02",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Coin-02",
+      "components": []
+    },
+    {
+      "name": "Win-Big-Win-Coin-01",
+      "bone": "Digits",
+      "attachment": "Win-Big-Win-Coin-01",
+      "components": []
+    },
+    {
+      "name": "ShiningStar",
+      "bone": "Digits",
+      "attachment": "ShiningStar",
+      "components": []
+    },
+    {
+      "name": "LinePathTexture",
+      "bone": "Digits",
+      "attachment": "LinePathTexture",
+      "components": []
+    },
+    {
+      "name": "Symbol-1-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-1-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-2-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-2-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-3-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-3-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-4-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-4-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-5-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-5-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-6-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-6-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-7-info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-7-info",
+      "components": []
+    },
+    {
+      "name": "Symbol-8-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-8-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-9-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-9-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-10-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-10-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-11-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-11-Info",
+      "components": []
+    },
+    {
+      "name": "Symbol-12-Info",
+      "bone": "InfoSymbols",
+      "attachment": "Symbol-12-Info",
+      "components": []
+    }
+  ],
+  "skins": {
+    "default": {
+      "SuperSpin-Animation": {
+        "SuperSpin-Animation": {
+          "x": 2150,
+          "y": 720,
+          "width": 200,
+          "height": 200,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2050,
+            620
+          ],
+          "offsetMax": [
+            2250,
+            820
+          ],
+          "visibleSelf": true,
+          "name": "SuperSpin",
+          "timeScale": 1,
+          "animationName": "Dragon_Path_4",
+          "type": "Spine"
+        }
+      },
+      "Main_Background": {
+        "Main_Background": {
+          "x": 1584,
+          "y": 720,
+          "width": 3168,
+          "height": 1440,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            3168,
+            1440
+          ],
+          "visibleSelf": true,
+          "name": "Main_Background",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "SpineRenderer": {
+        "SpineRenderer": {
+          "x": 1584,
+          "y": 720,
+          "width": 200,
+          "height": 200,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1484,
+            620
+          ],
+          "offsetMax": [
+            1684,
+            820
+          ],
+          "visibleSelf": true,
+          "name": "Background_Animations",
+          "timeScale": 1,
+          "animationName": "Main_Background",
+          "type": "Spine"
+        }
+      },
+      "BG-Main-Reels-Background-Large-5": {
+        "BG-Main-Reels-Background-Large-5": {
+          "x": 2211,
+          "y": 642,
+          "width": 312,
+          "height": 1220,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2055,
+            32
+          ],
+          "offsetMax": [
+            2367,
+            1252
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Background-Large-2",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Background-Large-4": {
+        "BG-Main-Reels-Background-Large-4": {
+          "x": 1898,
+          "y": 642,
+          "width": 312,
+          "height": 1220,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1742,
+            32
+          ],
+          "offsetMax": [
+            2054,
+            1252
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Background-Large-2",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Background-Large-3": {
+        "BG-Main-Reels-Background-Large-3": {
+          "x": 1586,
+          "y": 642,
+          "width": 312,
+          "height": 1220,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1430,
+            32
+          ],
+          "offsetMax": [
+            1742,
+            1252
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Background-Large-2",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Background-Large-2": {
+        "BG-Main-Reels-Background-Large-2": {
+          "x": 1273,
+          "y": 642,
+          "width": 312,
+          "height": 1220,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1117,
+            32
+          ],
+          "offsetMax": [
+            1429,
+            1252
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Background-Large-2",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Background-Small-1": {
+        "BG-Main-Reels-Background-Small-1": {
+          "x": 960,
+          "y": 642,
+          "width": 312,
+          "height": 608,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            804,
+            338
+          ],
+          "offsetMax": [
+            1116,
+            946
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Background-Small-1",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "NearMiss-1": {
+        "NearMiss-1": {
+          "x": 1583,
+          "y": 640,
+          "width": 200,
+          "height": 200,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1483,
+            540
+          ],
+          "offsetMax": [
+            1683,
+            740
+          ],
+          "visibleSelf": true,
+          "name": "NearMiss",
+          "timeScale": 1,
+          "animationName": "NearMiss",
+          "type": "Spine"
+        }
+      },
+      "BG-Main-Reels-Overground-Left": {
+        "BG-Main-Reels-Overground-Left": {
+          "x": 950.5,
+          "y": 642,
+          "width": 330,
+          "height": 1158,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            785.5,
+            63
+          ],
+          "offsetMax": [
+            1115.5,
+            1221
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Overground-Left",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Overground-Right": {
+        "BG-Main-Reels-Overground-Right": {
+          "x": 2375.5,
+          "y": 642,
+          "width": 16,
+          "height": 1158,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2367.5,
+            63
+          ],
+          "offsetMax": [
+            2383.5,
+            1221
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Overground-Right",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Overground-Horizonta-Down": {
+        "BG-Main-Reels-Overground-Horizonta-Down": {
+          "x": 1742,
+          "y": 1241,
+          "width": 1285,
+          "height": -50,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1099.5,
+            1266
+          ],
+          "offsetMax": [
+            2384.5,
+            1216
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Overground-Horizontal",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Reels-Overground-Horizontal-Up": {
+        "BG-Main-Reels-Overground-Horizontal-Up": {
+          "x": 1742,
+          "y": 41,
+          "width": 1285,
+          "height": 50,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1099.5,
+            16
+          ],
+          "offsetMax": [
+            2384.5,
+            66
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Reels-Overground-Horizontal",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Ways-Left": {
+        "BG-Main-Ways-Left": {
+          "x": 743.5,
+          "y": 638,
+          "width": 64,
+          "height": 544,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            711.5,
+            366
+          ],
+          "offsetMax": [
+            775.5,
+            910
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Ways-Left",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "BG-Main-Ways-Right": {
+        "BG-Main-Ways-Right": {
+          "x": 2422.5,
+          "y": 638,
+          "width": 64,
+          "height": 544,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2390.5,
+            366
+          ],
+          "offsetMax": [
+            2454.5,
+            910
+          ],
+          "visibleSelf": true,
+          "name": "BG-Main-Ways-Right",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Logo-Static": {
+        "Logo-Static": {
+          "x": 925,
+          "y": 166,
+          "width": 314,
+          "height": 298,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            768,
+            17
+          ],
+          "offsetMax": [
+            1082,
+            315
+          ],
+          "visibleSelf": true,
+          "name": "Logo",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Special Messages": {
+        "Special Messages": {
+          "x": 1584,
+          "y": 720,
+          "width": 3168,
+          "height": 1440,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            3168,
+            1440
+          ],
+          "visibleSelf": true,
+          "name": "Special_Messages",
+          "timeScale": 1,
+          "animationName": "Big Win In",
+          "type": "Spine"
+        }
+      },
+      "Win-Big-Win-1": {
+        "Win-Big-Win-1": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-1",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-2": {
+        "Win-Big-Win-2": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-2",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-3": {
+        "Win-Big-Win-3": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-3",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-4": {
+        "Win-Big-Win-4": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-4",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-5": {
+        "Win-Big-Win-5": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-5",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-6": {
+        "Win-Big-Win-6": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-6",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-7": {
+        "Win-Big-Win-7": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-7",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-8": {
+        "Win-Big-Win-8": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-8",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-9": {
+        "Win-Big-Win-9": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-9",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-0": {
+        "Win-Big-Win-0": {
+          "x": 1580,
+          "y": 1003,
+          "width": 140,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1510,
+            908
+          ],
+          "offsetMax": [
+            1650,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-0",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Dot": {
+        "Win-Big-Win-Dot": {
+          "x": 1580,
+          "y": 1003,
+          "width": 52,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1554,
+            908
+          ],
+          "offsetMax": [
+            1606,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Dot",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Comma": {
+        "Win-Big-Win-Comma": {
+          "x": 1580,
+          "y": 1003,
+          "width": 72,
+          "height": 190,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1544,
+            908
+          ],
+          "offsetMax": [
+            1616,
+            1098
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Comma",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Coin-04": {
+        "Win-Big-Win-Coin-04": {
+          "x": 1585,
+          "y": 791,
+          "width": 80,
+          "height": 13,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1545,
+            784.5
+          ],
+          "offsetMax": [
+            1625,
+            797.5
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Coin-04",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Coin-03": {
+        "Win-Big-Win-Coin-03": {
+          "x": 1585,
+          "y": 791,
+          "width": 80,
+          "height": 29,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1545,
+            776.5
+          ],
+          "offsetMax": [
+            1625,
+            805.5
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Coin-03",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Coin-02": {
+        "Win-Big-Win-Coin-02": {
+          "x": 1585,
+          "y": 791,
+          "width": 80,
+          "height": 61,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1545,
+            760.5
+          ],
+          "offsetMax": [
+            1625,
+            821.5
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Coin-02",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Win-Big-Win-Coin-01": {
+        "Win-Big-Win-Coin-01": {
+          "x": 1585,
+          "y": 791,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1545,
+            751
+          ],
+          "offsetMax": [
+            1625,
+            831
+          ],
+          "visibleSelf": true,
+          "name": "Win-Big-Win-Coin-01",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "ShiningStar": {
+        "ShiningStar": {
+          "x": 1584,
+          "y": 720,
+          "width": 259,
+          "height": 253,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1454.5,
+            593.5
+          ],
+          "offsetMax": [
+            1713.5,
+            846.5
+          ],
+          "visibleSelf": true,
+          "name": "ShiningStar",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "LinePathTexture": {
+        "LinePathTexture": {
+          "x": 1584,
+          "y": 720,
+          "width": 1000,
+          "height": 100,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1084,
+            670
+          ],
+          "offsetMax": [
+            2084,
+            770
+          ],
+          "visibleSelf": true,
+          "name": "LinePathTexture",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-1-Info": {
+        "Symbol-1-Info": {
+          "x": 41,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1,
+            0
+          ],
+          "offsetMax": [
+            81,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-1-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-2-Info": {
+        "Symbol-2-Info": {
+          "x": 40,
+          "y": 41,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            1
+          ],
+          "offsetMax": [
+            80,
+            81
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-2-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-3-Info": {
+        "Symbol-3-Info": {
+          "x": 41,
+          "y": 41,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1,
+            1
+          ],
+          "offsetMax": [
+            81,
+            81
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-3-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-4-Info": {
+        "Symbol-4-Info": {
+          "x": 41,
+          "y": 41,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1,
+            1
+          ],
+          "offsetMax": [
+            81,
+            81
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-4-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-5-Info": {
+        "Symbol-5-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-5-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-6-Info": {
+        "Symbol-6-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-6-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-7-info": {
+        "Symbol-7-info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-7-info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-8-Info": {
+        "Symbol-8-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-8-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-9-Info": {
+        "Symbol-9-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-9-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-10-Info": {
+        "Symbol-10-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-10-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-11-Info": {
+        "Symbol-11-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-11-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Symbol-12-Info": {
+        "Symbol-12-Info": {
+          "x": 40,
+          "y": 40,
+          "width": 80,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0
+          ],
+          "offsetMax": [
+            80,
+            80
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-12-Info",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100,
+  "reelsArea": {
+    "x": 1585,
+    "y": 642,
+    "width": 1556,
+    "height": 1212,
+    "symbolWidth": 304,
+    "symbolHeight": 202,
+    "symbolsGap": 0,
+    "symbolsPerReel": 6,
+    "numberOfReels": 5,
+    "reelsGap": 9,
+    "reels": [
+      {
+        "x": 152,
+        "y": 606,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "width": 304,
+        "height": 1212
+      },
+      {
+        "x": 465,
+        "y": 606,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "width": 304,
+        "height": 1212
+      },
+      {
+        "x": 778,
+        "y": 606,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "width": 304,
+        "height": 1212
+      },
+      {
+        "x": 1091,
+        "y": 606,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "width": 304,
+        "height": 1212
+      },
+      {
+        "x": 1404,
+        "y": 606,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "width": 304,
+        "height": 1212
+      }
+    ],
+    "symbols": [
+      {
+        "symbolName": "symbol 4",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 1",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 11",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 12",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 2",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 3",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 10",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 5",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 6",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 7",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 8",
+        "symbolServerID": "",
+        "isColosal": false
+      },
+      {
+        "symbolName": "symbol 9",
+        "symbolServerID": "",
+        "isColosal": false
+      }
+    ],
+    "parent": "root!@3552",
+    "name": "ReelsArea",
+    "scaleX": 1,
+    "scaleY": 1,
+    "pivotX": 0.5,
+    "pivotY": 0.5
+  }
+}

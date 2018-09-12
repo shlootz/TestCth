@@ -1,0 +1,160 @@
+
+Background_Animations.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_01
+  rotate: false
+  xy: 1020, 758
+  size: 433, 177
+  orig: 433, 177
+  offset: 0, 0
+  index: -1
+clouds_back
+  rotate: false
+  xy: 2, 710
+  size: 1016, 225
+  orig: 1016, 225
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: true
+  xy: 573, 18
+  size: 137, 138
+  orig: 137, 138
+  offset: 0, 0
+  index: -1
+sun_rays
+  rotate: false
+  xy: 640, 463
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+tree_FS_01_half
+  rotate: false
+  xy: 369, 485
+  size: 269, 223
+  orig: 269, 223
+  offset: 0, 0
+  index: -1
+tree_FS_02_half
+  rotate: false
+  xy: 2, 356
+  size: 365, 352
+  orig: 365, 352
+  offset: 0, 0
+  index: -1
+tree_MG_01_half
+  rotate: false
+  xy: 369, 260
+  size: 269, 223
+  orig: 269, 223
+  offset: 0, 0
+  index: -1
+tree_MG_02_half
+  rotate: false
+  xy: 2, 2
+  size: 365, 352
+  orig: 365, 352
+  offset: 0, 0
+  index: -1
+waterfall_frame_0040
+  rotate: true
+  xy: 1455, 835
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0041
+  rotate: false
+  xy: 369, 18
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0042
+  rotate: true
+  xy: 640, 361
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0043
+  rotate: false
+  xy: 887, 468
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0044
+  rotate: true
+  xy: 1697, 835
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0045
+  rotate: false
+  xy: 471, 18
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0046
+  rotate: true
+  xy: 640, 259
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0047
+  rotate: true
+  xy: 1455, 733
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0048
+  rotate: true
+  xy: 1697, 733
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0049
+  rotate: false
+  xy: 1939, 695
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0050
+  rotate: true
+  xy: 1020, 656
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0051
+  rotate: true
+  xy: 989, 554
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0052
+  rotate: true
+  xy: 989, 452
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1
+waterfall_frame_0053
+  rotate: true
+  xy: 573, 157
+  size: 100, 240
+  orig: 100, 240
+  offset: 0, 0
+  index: -1

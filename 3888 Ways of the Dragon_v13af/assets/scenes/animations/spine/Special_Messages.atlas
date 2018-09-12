@@ -1,0 +1,97 @@
+
+Special_Messages.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG-WIN
+  rotate: true
+  xy: 2, 143
+  size: 1107, 310
+  orig: 1107, 310
+  offset: 0, 0
+  index: -1
+BIG-WIN-Glow
+  rotate: true
+  xy: 1832, 1432
+  size: 585, 187
+  orig: 585, 187
+  offset: 0, 0
+  index: -1
+Fireworks_1
+  rotate: false
+  xy: 592, 160
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Fireworks_2
+  rotate: false
+  xy: 864, 738
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Fireworks_3
+  rotate: false
+  xy: 1378, 766
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MEGA
+  rotate: false
+  xy: 922, 1280
+  size: 839, 278
+  orig: 839, 278
+  offset: 0, 0
+  index: -1
+MEGA-Glow
+  rotate: true
+  xy: 1286, 277
+  size: 459, 179
+  orig: 459, 179
+  offset: 0, 0
+  index: -1
+MEGA-WIN
+  rotate: true
+  xy: 592, 674
+  size: 576, 270
+  orig: 576, 270
+  offset: 0, 0
+  index: -1
+MEGA-WIN-Glow
+  rotate: false
+  xy: 1467, 589
+  size: 328, 175
+  orig: 328, 175
+  offset: 0, 0
+  index: -1
+ULTRA
+  rotate: true
+  xy: 314, 343
+  size: 907, 276
+  orig: 907, 276
+  offset: 0, 0
+  index: -1
+ULTRA-Glow
+  rotate: true
+  xy: 1106, 243
+  size: 493, 178
+  orig: 493, 178
+  offset: 0, 0
+  index: -1
+ULTRA-WIN
+  rotate: false
+  xy: 922, 1560
+  size: 908, 457
+  orig: 908, 457
+  offset: 0, 0
+  index: -1
+Win-Rays
+  rotate: false
+  xy: 2, 1252
+  size: 918, 765
+  orig: 918, 765
+  offset: 0, 0
+  index: -1

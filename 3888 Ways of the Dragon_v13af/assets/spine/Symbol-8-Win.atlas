@@ -1,0 +1,62 @@
+
+Symbol-8-Win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol-8_back
+  rotate: true
+  xy: 2, 410
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-8_body
+  rotate: false
+  xy: 304, 814
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-8_body_shadow
+  rotate: true
+  xy: 2, 104
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-8_circle
+  rotate: false
+  xy: 610, 814
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-8_ornament
+  rotate: true
+  xy: 206, 410
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+gradient_shine
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+radial_rays_half
+  rotate: false
+  xy: 2, 716
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 916, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

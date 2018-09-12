@@ -1,0 +1,55 @@
+
+Bonus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coins
+  rotate: false
+  xy: 625, 644
+  size: 183, 162
+  orig: 183, 162
+  offset: 0, 0
+  index: -1
+CoinsGlow
+  rotate: false
+  xy: 2, 40
+  size: 187, 167
+  orig: 187, 167
+  offset: 0, 0
+  index: -1
+Ellipse
+  rotate: false
+  xy: 2, 598
+  size: 220, 208
+  orig: 220, 208
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 224, 607
+  size: 211, 199
+  orig: 211, 199
+  offset: 0, 0
+  index: -1
+Frame Glow
+  rotate: false
+  xy: 2, 392
+  size: 216, 204
+  orig: 216, 204
+  offset: 0, 0
+  index: -1
+Frame2
+  rotate: false
+  xy: 437, 632
+  size: 186, 174
+  orig: 186, 174
+  offset: 0, 0
+  index: -1
+Frame2Glow
+  rotate: false
+  xy: 2, 209
+  size: 193, 181
+  orig: 193, 181
+  offset: 0, 0
+  index: -1

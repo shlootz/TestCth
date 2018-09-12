@@ -1,0 +1,34 @@
+
+SuperSpin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon
+  rotate: false
+  xy: 2, 708
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: -1
+dragon_glow
+  rotate: false
+  xy: 2, 456
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: -1
+dragon_over
+  rotate: false
+  xy: 2, 204
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: -1
+dragon_particles
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

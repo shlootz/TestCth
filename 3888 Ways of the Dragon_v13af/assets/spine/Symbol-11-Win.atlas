@@ -1,0 +1,62 @@
+
+Symbol-11-Win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpesialSymbols-rays
+  rotate: false
+  xy: 2, 67
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Symbol-11-back
+  rotate: false
+  xy: 2, 544
+  size: 304, 288
+  orig: 304, 304
+  offset: 0, 4
+  index: -1
+Symbol-11-dragon
+  rotate: false
+  xy: 308, 595
+  size: 287, 237
+  orig: 304, 304
+  offset: 8, 57
+  index: -1
+Symbol-11-ornament
+  rotate: false
+  xy: 2, 269
+  size: 286, 273
+  orig: 304, 304
+  offset: 9, 13
+  index: -1
+Symbol-11-wild
+  rotate: false
+  xy: 597, 751
+  size: 207, 81
+  orig: 304, 304
+  offset: 50, 34
+  index: -1
+Symbol-11-wild-2
+  rotate: false
+  xy: 2, 2
+  size: 188, 63
+  orig: 304, 304
+  offset: 59, 46
+  index: -1
+gradient_shine
+  rotate: false
+  xy: 204, 217
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 308, 550
+  size: 44, 43
+  orig: 50, 50
+  offset: 3, 4
+  index: -1

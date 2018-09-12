@@ -1,0 +1,73 @@
+{
+    "frames": {
+        "DragonSpinPreview.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1201,
+                "h": 947
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1201,
+                "h": 947
+            },
+            "sourceSize": {
+                "w": 1201,
+                "h": 947
+            }
+        },
+        "Logo.png": {
+            "frame": {
+                "x": 0,
+                "y": 949,
+                "w": 873,
+                "h": 839
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 873,
+                "h": 839
+            },
+            "sourceSize": {
+                "w": 873,
+                "h": 839
+            }
+        },
+        "FreeSpinsPreview.png": {
+            "frame": {
+                "x": 1203,
+                "y": 0,
+                "w": 641,
+                "h": 470
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 641,
+                "h": 470
+            },
+            "sourceSize": {
+                "w": 641,
+                "h": 470
+            }
+        }
+    },
+    "meta": {
+        "image": "FeatureScreen.desktop.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 2048
+        },
+        "scale": "1"
+    }
+}

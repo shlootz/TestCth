@@ -1,0 +1,48 @@
+
+Symbol-2-Win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol-2_body
+  rotate: false
+  xy: 2, 510
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-2_part1
+  rotate: false
+  xy: 2, 306
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-2_part2
+  rotate: false
+  xy: 308, 510
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-2_shadow
+  rotate: false
+  xy: 2, 102
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+gradient_shine
+  rotate: false
+  xy: 308, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 614, 612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,480 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@6291",
+      "parent": "root",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "FeatureScreenModuleAssets",
+      "parent": "root!@6291",
+      "x": 1584,
+      "y": 721,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        1
+      ],
+      "offsetMax": [
+        3168,
+        1441
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "features",
+      "parent": "FeatureScreenModuleAssets",
+      "x": 1585.5,
+      "y": 703.5,
+      "width": 1573,
+      "height": 508,
+      "widthRelative": 49.65277777777778,
+      "heightRelative": 35.27777777777778,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        799,
+        449.5
+      ],
+      "offsetMax": [
+        2372,
+        957.5
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "Logo",
+      "parent": "FeatureScreenModuleAssets",
+      "x": 1584,
+      "y": 211,
+      "width": 382,
+      "height": 367,
+      "widthRelative": 12.058080808080808,
+      "heightRelative": 25.48611111111111,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        1393,
+        27.5
+      ],
+      "offsetMax": [
+        1775,
+        394.5
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "feature2",
+      "parent": "features",
+      "x": 1240.5,
+      "y": 254,
+      "width": 665,
+      "height": 508,
+      "widthRelative": 42.27590591226955,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        908,
+        0
+      ],
+      "offsetMax": [
+        1573,
+        508
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    },
+    {
+      "name": "feature1",
+      "parent": "features",
+      "x": 320.5,
+      "y": 242,
+      "width": 641,
+      "height": 470,
+      "widthRelative": 40.75015893197712,
+      "heightRelative": 92.51968503937007,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        7
+      ],
+      "offsetMax": [
+        641,
+        477
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": []
+    }
+  ],
+  "slots": [
+    {
+      "name": "page2_text1_noExport",
+      "bone": "feature2",
+      "attachment": "page2_text1_noExport",
+      "components": []
+    },
+    {
+      "name": "DragonSpinPreview",
+      "bone": "feature2",
+      "attachment": "DragonSpinPreview",
+      "components": []
+    },
+    {
+      "name": "page1_text1_noExport",
+      "bone": "feature1",
+      "attachment": "page1_text1_noExport",
+      "components": []
+    },
+    {
+      "name": "FreeSpinsPreview",
+      "bone": "feature1",
+      "attachment": "FreeSpinsPreview",
+      "components": []
+    },
+    {
+      "name": "Logo_noExport",
+      "bone": "Logo",
+      "attachment": "Logo_noExport",
+      "components": []
+    }
+  ],
+  "skins": {
+    "default": {
+      "page2_text1_noExport": {
+        "page2_text1_noExport": {
+          "x": 374,
+          "y": 614,
+          "width": 890,
+          "height": 209,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -71,
+            509.5
+          ],
+          "offsetMax": [
+            819,
+            718.5
+          ],
+          "visibleSelf": true,
+          "name": "page2_text1_noExport",
+          "type": "textField",
+          "properties": {
+            "content": "Dragon symbol on Reel 1 will trigger a DRAGON SPIN",
+            "fontName": "NotoSans-Bold",
+            "fontSize": "35",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "f9f1a5"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "000000",
+            "strokeSize": 6,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "000000",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 1.5,
+            "dropShadowBlur": 15,
+            "dropShadowDistance": 0,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 890,
+            "lineHeight": 35,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "DragonSpinPreview": {
+        "DragonSpinPreview": {
+          "x": 374,
+          "y": 255,
+          "width": 665,
+          "height": 508,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            41.5,
+            1
+          ],
+          "offsetMax": [
+            706.5,
+            509
+          ],
+          "visibleSelf": true,
+          "name": "DragonSpinPreview",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "page1_text1_noExport": {
+        "page1_text1_noExport": {
+          "x": 318,
+          "y": 607,
+          "width": 888,
+          "height": 210,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -126,
+            502
+          ],
+          "offsetMax": [
+            762,
+            712
+          ],
+          "visibleSelf": true,
+          "name": "page1_text1_noExport",
+          "type": "textField",
+          "properties": {
+            "content": "3 or 4 Bonus symbols in view will award FREE SPINS",
+            "fontName": "NotoSans-Bold",
+            "fontSize": "35",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "f9f1a5"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "000000",
+            "strokeSize": 6,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "000000",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 1.5,
+            "dropShadowBlur": 15,
+            "dropShadowDistance": 0,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 888,
+            "lineHeight": 35,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "FreeSpinsPreview": {
+        "FreeSpinsPreview": {
+          "x": 318,
+          "y": 235,
+          "width": 641,
+          "height": 470,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -2.5,
+            0
+          ],
+          "offsetMax": [
+            638.5,
+            470
+          ],
+          "visibleSelf": true,
+          "name": "FreeSpinsPreview",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      },
+      "Logo_noExport": {
+        "Logo_noExport": {
+          "x": 191,
+          "y": 184,
+          "width": 382,
+          "height": 367,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            0.5
+          ],
+          "offsetMax": [
+            382,
+            367.5
+          ],
+          "visibleSelf": true,
+          "name": "Logo",
+          "opacity": 1,
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

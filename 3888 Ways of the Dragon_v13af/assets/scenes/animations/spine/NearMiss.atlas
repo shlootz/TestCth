@@ -1,0 +1,27 @@
+
+NearMiss.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-Main-Reels-Background-ornament
+  rotate: true
+  xy: 2, 47
+  size: 157, 611
+  orig: 157, 611
+  offset: 0, 0
+  index: -1
+Symbol-12-glowline
+  rotate: false
+  xy: 615, 104
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+gradient_shine
+  rotate: false
+  xy: 615, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

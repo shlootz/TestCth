@@ -1,0 +1,55 @@
+
+Symbol-6-Win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol-6_all
+  rotate: true
+  xy: 2, 410
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-6_body
+  rotate: false
+  xy: 304, 814
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-6_part1
+  rotate: true
+  xy: 2, 104
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+Symbol-6_part2
+  rotate: false
+  xy: 610, 814
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+gradient_shine
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+radial_rays_half
+  rotate: false
+  xy: 2, 716
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 916, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
